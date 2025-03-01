@@ -1,3 +1,3 @@
 # bookbot
 
-First Project in the boot.dev backend path
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
