@@ -1,5 +1,4 @@
 # bookbot
-
 BookBot is a small command line utility that generates simple statistics about a text file. 
 It was built as a learning exercise as a part of [Boot.dev](https://www.boot.dev)
 
